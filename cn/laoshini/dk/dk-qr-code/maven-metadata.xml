@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.laoshini.dk</groupId>
+  <artifactId>dk-qr-code</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200318042319</lastUpdated>
+  </versioning>
+</metadata>
